@@ -3,7 +3,7 @@
 
 ## About:
 
-This is simple Java console chat bot application
+This is a simple Java console chat bot application
 
 
 ## Description:
