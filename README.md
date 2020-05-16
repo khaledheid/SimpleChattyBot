@@ -13,7 +13,7 @@ You will introduce yourself to the bot. He will chat with you
 
 ## Challenges:
 
-The bot try to guess your age by asking three questions
+The bot try to guess your age by asking no more than three questions
 
 ## Solution:
 
